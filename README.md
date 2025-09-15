@@ -19,10 +19,10 @@ I believe great design is invisible, and great code is poetry. Whether it's buil
 
 Here’s what I bring to the table:
 
-| 💻 Languages     | HTML5, CSS3, JavaScript, PHP, JSON |
+| 💻 Languages     | HTML5, CSS3, JavaScript, PHP, JSON, TypeScript (learning) |
 |------------------|------------------------------------|
 | 🧩 Frameworks    | ReactJS, JQuery, Bootstrap, AJAX   |
-| 🎨 Styling       | SASS, BEM, Responsive Design       |
+| 🎨 Styling       | SASS, BEM, Responsive Design, Tailwind CSS |
 | 🛠️ Tools         | Git, GitHub, Bitbucket, Jira, NPM  |
 | 🌐 CMS & Platforms | Adobe Experience Manager (AEM), WordPress |
 | 📈 Optimization  | Lighthouse, Google Page Insights, Schema Markup |
